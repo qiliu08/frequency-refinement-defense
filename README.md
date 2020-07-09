@@ -9,7 +9,7 @@ Example model used in this repository can be downloaded from https://drive.googl
 data/ folder contains a couple of images in ISIC dataset for testing purposes. The entire dataset can be found in https://challenge2018.isic-archive.com/task1
 
 ## Running the test
-main.py includes biomedical segmentation-based adversarial examples generation and our Frequency Refinement defense processing. In adaptive_attack.py, We slightly modify the original attack algorithm for fitting into our model. The original adversarial attack algorithm can be found in https://github.com/utkuozbulak/adaptive-segmentation-mask-attack#adaptive-segmentation-mask-attack.
+main.py includes biomedical segmentation-based adversarial examples generation and our Frequency Refinement defense processing. In adaptive_attack.py, we slightly modify the original attack algorithm for fitting into our model. The original adversarial attack algorithm can be found in https://github.com/utkuozbulak/adaptive-segmentation-mask-attack#adaptive-segmentation-mask-attack.
 you can run main.py to test our defense approach.
 ```
 python main.py
