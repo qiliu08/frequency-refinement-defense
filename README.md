@@ -1,6 +1,6 @@
 # Frequency Refinement 
 
-This repository contains the implementation of adversarial defense for deep learning biomedical segmentation models. This defense is proposed in a paper titled "Defending Deep Learning-based Biomedical Image Segmentation from Adversarial Attacks: A Low-cost Frequency Refinement Approach, " published in MICCAI-2020.
+This repository contains the implementation of adversarial defense for deep learning biomedical segmentation models. This defense is proposed in our paper titled "Defending Deep Learning-based Biomedical Image Segmentation from Adversarial Attacks: A Low-cost Frequency Refinement Approach, " published in MICCAI-2020.
 
 ## Prerequisites
 ### Download pre-trained model 
