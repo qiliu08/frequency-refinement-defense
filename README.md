@@ -5,7 +5,7 @@ This repository contains the implementation of adversarial defense for deep lear
 ## Prerequisites
 ### Download pre-trained model 
 Example model used in this repository can be downloaded from https://drive.google.com/file/d/19ZxTpbCm1pOuEDeldMB20tHvuKzfg9rJ/view?usp=sharing
-### Download dataset
+### Download dataset (optional)
 data/ folder contains a couple of images in ISIC dataset for testing purposes. The entire dataset can be found in https://challenge2018.isic-archive.com/task1
 
 ## Running the test
