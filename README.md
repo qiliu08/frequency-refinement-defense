@@ -18,7 +18,7 @@ python main.py
 ```
 python=3.7.6
 pytorch=1.3.1
-torchvision = 0.4.2
+torchvision=0.4.2
 ```
 
 ## Citation
