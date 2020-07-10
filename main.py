@@ -67,7 +67,7 @@ def main():
     FR_defense = FrequencyRefinement(input_preprocessing_type='padding', PD_band = args.PD_band, AC_band = args.AC_band, GD_band = args.GD_band)    
     for i in range(0, len(loader) - 1):
         print('The ' + str(i+1) + 'th image')
-        AE_image = cv2.cvtColor(cv2.imread('adv_results/modified_image/' + im_name[i] + '_iter_2500.png'), cv2.COLOR_BGR2RGB)
+        AE_image = cv2.cvtColor(cv2.imread('adv_results/modified_image/' + im_name[i] + '_iter_' + str(args.total_iter-1)+'.png'), cv2.COLOR_BGR2RGB)
         AE_image = AE_image.reshape((1, AE_image.shape[0], AE_image.shape[1], AE_image.shape[2]))        
         mitigated_FD_image = FR_defense.refinement_processing(AE_image)
 
