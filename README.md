@@ -23,11 +23,11 @@ torchvision=0.4.2
 
 ## Citation
 If you find this project is useful for your research, consider citing our paper. 
-@inproceedings{liu2020defending,
-  title={Defending Deep Learning-Based Biomedical Image Segmentation from Adversarial Attacks: A Low-Cost Frequency Refinement Approach},
-  author={Liu, Qi and Jiang, Han and Liu, Tao and Liu, Zihao and Li, Sicheng and Wen, Wujie and Shi, Yiyu},
-  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2020: 23rd International Conference, Lima, Peru, October 4--8, 2020, Proceedings, Part IV 23},
-  pages={342--351},
-  year={2020},
-  organization={Springer}
-}
+@inproceedings{liu2020defending,<br/>
+  title={Defending Deep Learning-Based Biomedical Image Segmentation from Adversarial Attacks: A Low-Cost Frequency Refinement Approach},<br/>
+  author={Liu, Qi and Jiang, Han and Liu, Tao and Liu, Zihao and Li, Sicheng and Wen, Wujie and Shi, Yiyu},<br/>
+  booktitle={Medical Image Computing and Computer Assisted Intervention--MICCAI 2020: 23rd International Conference, Lima, Peru, October 4--8, 2020, Proceedings, Part IV 23},<br/>
+  pages={342--351},<br/>
+  year={2020},<br/>
+  organization={Springer}<br/>
+}<br/>
